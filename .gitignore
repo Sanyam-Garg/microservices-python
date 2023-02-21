@@ -1,3 +1,4 @@
 auth/venv
 gateway/venv
 converter/venv
+*/__pycache__
